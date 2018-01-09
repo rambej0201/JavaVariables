@@ -1,0 +1,1 @@
+declare class, declare 2 instance variable, declare 2 static variable, declare an instance method, declare a static method and print above four variables thorough both methods individually. Declare main method and invoke both methods
